@@ -13,6 +13,7 @@ public class ElasticsearchApplication {
         SpringApplication.run(ElasticsearchApplication.class, args);
         System.out.println("111 master modify");
         System.out.println("master");
+        System.out.println("branch");
     }
 
 }
